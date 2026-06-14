@@ -121,8 +121,6 @@ This project wasn't just a speaker. It was a crash course in real hardware engin
 
 *PRs welcome if you build any of these first.*
 
----
-
 ## Team & References
 
 ### Team
@@ -135,15 +133,11 @@ Built collaboratively with a focus on iterative design, shared troubleshooting, 
 
 📌 Read the full project write-up: [*"Teamwork & Innovation in Bluetooth Speaker Project"* — Shivani Ambati](https://www.linkedin.posts/shivani-ambati-268a56288_teamwork-innovation-bluetoothspeaker-activity-7206369769371889664-RgLy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXsNvABktqRTMACRZbMmkarBZ4V_Mrxd_8)
 
----
-
 ### References
 
 1. **PAM8403 Datasheet** — Diodes Incorporated. *PAM8403: 3W Filterless Class-D Audio Amplifier.* [diodes.com](https://www.diodes.com/assets/Datasheets/PAM8403.pdf)
 2. **Laser Cutting MDF Guide** — Instructables Community. *How to Laser Cut MDF: Settings, Tolerances & Finishing.* [instructables.com](https://www.instructables.com)
 3. **PTC Creo Parametric** — PTC Inc. *Creo Parametric CAD Software.* [ptc.com/creo](https://www.ptc.com/en/products/creo)
-
----
 
 ## 🏁 Get Started
 
@@ -164,8 +158,6 @@ Inside you'll find:
 ## 📄 License
 
 This project is licensed under the **MIT License** — use it, remix it, build on it. Just don't forget to give it a ⭐ if it helped you.
-
----
 
 <div align="center">
 
